@@ -14,4 +14,4 @@
 3. Адаптивная вёрстка  
 
 В проекте таже были сглажены шрифты, [оптимизированы картинки](https://tinypng.com/).  
-**[Страница]**(https://ivan-2001.github.io/russian-travel/) выложена на github-pages
+* [Страница](https://ivan-2001.github.io/russian-travel/) выложена на github-pages
