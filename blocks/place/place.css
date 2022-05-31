@@ -12,7 +12,6 @@
     grid-template-columns: minmax(47.413%, 440px) minmax(49.137%, 456px);
     grid-template-rows: max-content max-content;
     column-gap: 32px;
-    row-gap: 48px;
   }
 }
 
@@ -21,7 +20,6 @@
     grid-template-columns: minmax(47.222%, 340px) minmax(48.888%, 352px);
     grid-template-rows: max-content max-content;
     column-gap: 28px;
-    row-gap: 48px;
   }
 }
 
