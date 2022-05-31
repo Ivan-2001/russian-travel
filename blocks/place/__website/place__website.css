@@ -3,9 +3,7 @@
   flex-direction: column;
   justify-content: end;
   gap: 12px;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  align-items: flex-start;
 }
 
 @media screen and (max-width: 524px) {
