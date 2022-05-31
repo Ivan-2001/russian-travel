@@ -31,6 +31,7 @@
 
 @media screen and (max-width: 524px) {
   .cover {
+    margin-top: 66px;
     gap: 15px;
     padding: 31.25% 0;
   }
