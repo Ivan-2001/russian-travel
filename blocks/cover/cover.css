@@ -1,21 +1,35 @@
 .cover {
+  display: flex;
   position: relative;
   margin: 92px auto 0 auto;
   width: calc(100% - 48px * 2);
   background: url(../../images/__background.jpg) center no-repeat;
   background-size: cover;
-  padding-top: 57.813%;
+  padding: 19.1224% 0;
 }
 
 @media screen and (max-width: 1024px) {
   .cover {
     width: 100%;
-    padding-top: 62.5%;
+    padding: 19.021% 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    margin-top: 90px;
+    padding: 14.9435% 0;
   }
 }
 
 @media screen and (max-width: 524px) {
   .cover {
     margin-top: 66px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    padding: 10.39% 0;
   }
 }
