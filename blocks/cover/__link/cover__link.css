@@ -6,6 +6,25 @@
   text-decoration: none;
   align-items: center;
   gap: 32px;
+  padding: 20.673% 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__link {
+    padding: 19.021% 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__link {
+    padding: 14.9435% 0;
+  }
+}
+
+@media screen and (max-width: 524px) {
+  .cover__link {
+    padding: 10.38% 0;
+  }
 }
 
 @media screen and (max-width: 320px) {
