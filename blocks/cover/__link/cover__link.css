@@ -21,14 +21,9 @@
   }
 }
 
-@media screen and (max-width: 524px) {
-  .cover__link {
-    padding: 10.38% 0;
-  }
-}
-
 @media screen and (max-width: 320px) {
   .cover__link {
     gap: 16px;
+    padding: 10.38% 0;
   }
 }
